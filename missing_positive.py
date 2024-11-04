@@ -7,4 +7,4 @@ def first_missing_positive(numbers):
     
     
     
-print(first_missing_positive([-1, -2, -3]))
+print(first_missing_positive([3, 4, -1, 1]))
